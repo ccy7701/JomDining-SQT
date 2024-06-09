@@ -1,0 +1,7 @@
+organization=ccy7701-1
+projectKey=ccy7701_JomDining-SQT
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.54910
+dashboardUrl=https://sonarcloud.io/dashboard?id=ccy7701_JomDining-SQT
+ceTaskId=AY_94K9euv0rdWDYCkuy
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AY_94K9euv0rdWDYCkuy
